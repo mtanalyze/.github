@@ -4,7 +4,7 @@ SWIFT MT remains the operational backbone of securities settlement at financial 
 
 ## Projects
 
-- **[MT Analyze](https://mtanalyze.com)** — desktop tool for reading and understanding SWIFT MT files. SWIFT MT native internally, spreadsheet-style interface externally. Modern UI with light and dark mode. No installation, no dependencies, no technical skills required.
+- **[MT Analyze](https://www.github.com/mtanalyze/mtanalyze)** — desktop tool for reading and understanding SWIFT MT files. SWIFT MT native internally, spreadsheet-style interface externally. Modern UI with light and dark mode. No installation, no dependencies, no technical skills required.
 
 ## Principles
 
